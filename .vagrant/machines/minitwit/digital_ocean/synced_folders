@@ -1,0 +1,1 @@
+{"rsync":{"/minitwit":{"type":"rsync","guestpath":"/minitwit","hostpath":"/home/alexander180/Desktop/Devops/itu-minitwit-ci/remote_files","disabled":false,"__vagrantfile":true,"owner":"root","group":"root"}}}

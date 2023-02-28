@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XYWMADUeLsiVhxyA6v7aIWaD9pcT4ZjSDOJ0Yf4SbOarlI0FBIJ8m4NLfrdxwXgBxUAnaJUcdSsEEOidM7Qb/A==",
+  "dgSpecHash": "SsGtSv1Sb97m6VehNsWq+e7PBwN+hoTS7Ysew2KEqqzqU2yx+fAKH8gpikHT6EP5WXYeM5wDywCwAQLnYsIfmw==",
   "success": true,
-  "projectFilePath": "/home/alexander180/Desktop/itu-minitwit-ci/flag_tool/flag_tool.csproj",
+  "projectFilePath": "/home/alexander180/Desktop/Devops/itu-minitwit-ci/flag_tool/flag_tool.csproj",
   "expectedPackageFiles": [
     "/home/alexander180/.nuget/packages/bouncycastle.netcore/1.8.3/bouncycastle.netcore.1.8.3.nupkg.sha512",
     "/home/alexander180/.nuget/packages/google.protobuf/3.6.1/google.protobuf.3.6.1.nupkg.sha512",

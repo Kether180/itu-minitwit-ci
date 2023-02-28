@@ -107,7 +107,9 @@ export DOCKER_USERNAME=<your_docker_hub_username>
 export DOCKER_PASSWORD=<your_docker_hub_password>
 export DIGITAL_OCEAN_TOKEN=<your_digital_ocean_token>
 
-vagrant up --provider=digital_ocean
+vagrant up --provider=digital_ocean 
+
+## it will require your ssh key : passwordphrase 
 ```
 
 ![](images/vagrant_up.png)
